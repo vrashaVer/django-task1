@@ -6,8 +6,7 @@ from task1.models import Role,User
 
 # admin_role = Role.objects.create(name=Role.ADMIN)
 # user_role = Role.objects.create(name=Role.USER)
-# admin_role.save()
-# user_role.save()
+
 
 
 
